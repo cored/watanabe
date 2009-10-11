@@ -4,8 +4,7 @@ watanabe
 
 == DESCRIPTION:
 
-This is an attend for me to practice BDD with some Topcoder problems. The name of the project doesn't have any relationship with coding or code kata, but i like it, 
-read Murakami's Tokyo Blues and you'll understand.
+This is an attend for me to practice BDD with some Topcoder problems. The name of the project doesn't have any relationship with coding or code kata, but i like it, read Murakami's Tokyo Blues and you'll understand.
 
 == LICENSE:
 
