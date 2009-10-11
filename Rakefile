@@ -16,7 +16,7 @@ end
 ensure_in_path 'lib'
 require 'watanabe'
 
-task :default => 'spec:run'
+task :default => 'spec:specdoc'
 
 PROJ.name = 'watanabe'
 PROJ.authors = 'FIXME (who is writing this software)'
